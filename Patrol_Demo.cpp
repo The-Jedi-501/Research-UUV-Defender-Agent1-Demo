@@ -17,6 +17,14 @@ Terminal stuff you might need to know cause I couldnt remember:
 cmake --build build             This was used to esstnally make and fix the map at one point
 ./build/PatrolDemo              This actully ran the code but would take a min or two to actully load it 
 
+CLAUDE NEED DUMB STUFF 
+mkdir build
+cd build
+cmake ..
+make
+cd ..
+./build/PatrolDemo
+
 not code based the the include SFML no idea why its red squigles are included but it works 
 */
 
